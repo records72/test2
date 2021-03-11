@@ -1,5 +1,5 @@
 <aura:component implements ="force:lightningQuickAction,flexipage:availableForAllPageTypes" description="AnimalComponent">
     <div>
-        Elephant is neutral.
+        Elephant is red.
     </div>
 </aura:component>
